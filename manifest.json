@@ -1,0 +1,11 @@
+{
+	"manifest_version": 2,
+	"name": "YouTube Card Blocker",
+	"description": "Blocks cards from showing at the end of a YouTube video.",
+	"version": "1.0.0",
+	"content_scripts": [{
+		"js": ["youtubeCardBlocker.js"],
+		"matches": ["https://www.youtube.com/*"]
+	}],
+	"web_accessible_resources": ["youtubeCardBlocker.css"]
+}

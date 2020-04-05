@@ -4,7 +4,7 @@ A simple extension to block the cards which appear at the ends of YouTube videos
 
 ## Install
 
-* Chrome / New Edge: <https://chrome.google.com/webstore/detail/faabmlkblchainmfmilhjigidncpdpkb/publish-accepted?authuser=1&hl=en-GB>
+* Chrome / New Edge: <https://chrome.google.com/webstore/detail/youtube-card-blocker/faabmlkblchainmfmilhjigidncpdpkb>
 
 ## Screenshots
 
